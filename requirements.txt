@@ -1,8 +1,9 @@
-langchain
-langchain-core
-langchain-community
-langchain-text-splitters
+streamlit
 pypdf
 pdf2image
 pytesseract
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
 faiss-cpu
