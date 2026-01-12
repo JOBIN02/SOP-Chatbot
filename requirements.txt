@@ -1,4 +1,17 @@
+# PDF Processing and OCR
+pypdf
+pdf2image
+pytesseract
+Pillow
+
+# LangChain Core and Community
 langchain
 langchain-community
+langchain-text-splitters
+
+# Vector Store and Embeddings
 faiss-cpu
-pypdf
+# Use faiss-gpu if you have a supported NVIDIA GPU
+
+# Optional but recommended for Ollama integration
+requests
